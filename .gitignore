@@ -1,0 +1,7 @@
+node_modules
+
+src/config
+
+uploads
+
+src/database/database.sqlite
